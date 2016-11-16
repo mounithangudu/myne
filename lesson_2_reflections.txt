@@ -5,3 +5,5 @@ a repository is created but no commits are created yet. once a commit is created
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 not sure yet.
 idi
+
+star test
