@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+a repository is created but no commits are created yet. once a commit is created, all the changes can then be tracked. We need a repository to track the changes.
