@@ -15,3 +15,6 @@ for every logical change we made, we add the corresponding files to the staging 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 when we are experimenting a new code, we can just branch out the changes so that when ever we need to output that, we can just check it out and examine that.
+
+How do the diagrams help you visualize the branch structure?
+so tha we can see where to merge, where to discard, are we getting a proper result etc.
