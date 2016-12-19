@@ -4,3 +4,7 @@ To coloborate with other people and also being able to work on multiple computer
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 There will be a lot of clones which makes it very confusing for others to view your clone changes.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+For is just to make our life simpler by instantly creating a clone in our page. Branches always exit whenever we need a new change, we need to commit them for making it permanent
