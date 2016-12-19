@@ -10,4 +10,7 @@ Describe the differences between forks, clones, and branches. When would you use
 For is just to make our life simpler by instantly creating a clone in our page. Branches always exit whenever we need a new change, we need to commit them for making it permanent
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
-With that we can see the changes we made woth respect to the version stored in github. 
+With that we can see the changes we made woth respect to the version stored in github. '
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+So that we can manage the conflicts and then raise the pull request so that the merge can happen smoothly in github.
